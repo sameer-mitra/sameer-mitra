@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please check out my Blog on here<https://www.sameermitra.com>
-My projects are showcased here<https://www.professionalbytes.com>
+ - Please check out my Blog on here: https://www.sameermitra.com
+ - My projects are showcased here: https://www.professionalbytes.com

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sameer Mitra
 
 <!--
 **sameer-mitra/sameer-mitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Please check out my Blog on here<https://www.sameermitra.com>
+My projects are showcased here<https://www.professionalbytes.com>

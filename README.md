@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a full stack Applications Developer, specialising in Microsoft technologies, with over 15 years experience in designing and developing enterprise software. I have a strong background in technologies like .NET, SQL Server, Saas, and more recently, AWS and ExtJS.
+
+I get along easily with a variety of people and have worked well as part of teams as well as individually – as a sole developer on projects. I have a proven track record of delivering, managing and maintaining software solutions across a broad range of industries.
+
+When I am not working, I like to travel, and am getting back into sports after a hiatus 🙂
+
  - Please check out my Blog on here: https://www.sameermitra.com
  - My projects are showcased here: https://www.professionalbytes.com

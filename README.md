@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a full stack Applications Developer, specialising in Microsoft technologies, with over 15 years experience in designing and developing enterprise software. I have a strong background in technologies like .NET, SQL Server, Saas, and more recently, AWS and ExtJS.
+I am a full stack Applications Developer, specialising in Microsoft technologies, with over 15 years experience in designing and developing enterprise software. I have a strong background in technologies like .NET, SQL Server, REST API, and more recently, AWS, React and ExtJS.
 
 I get along easily with a variety of people and have worked well as part of teams as well as individually – as a sole developer on projects. I have a proven track record of delivering, managing and maintaining software solutions across a broad range of industries.
 
